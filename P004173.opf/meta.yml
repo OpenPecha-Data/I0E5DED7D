@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W20455
   title: དབུ་མ་རྩ་བ་ཤེས་རབ་རྩ་འགྲེལ།
   author: ''
-  volumes: {}
+  volumes:
+    230190328d4c45fc850b73c5ed655766:
+      image_group_id: I1KG10511
+      title: ''
+      volume_number: 1
+      total_pages: 511
